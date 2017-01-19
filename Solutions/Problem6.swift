@@ -1,11 +1,11 @@
-//Find the difference between the sum of the squares of
-//the first one hundred natural numbers and the square of the sum.
-//First calculate the sum of squares with Gauss Formula
+// Find the difference between the sum of the squares of
+// the first one hundred natural numbers and the square of the sum.
+// First calculate the sum of squares with Gauss Formula
 func gausSum(limit:Int)->Int{
 let sum = limit * (limit+1) / 2
 return sum
 }
-//The calculate the square of the sum
+// The calculate the square of the sum
 func sumsQuare(limit:Int)->Int{
 let square = (limit*(limit+1)*((2*limit)+1))/6
 return square

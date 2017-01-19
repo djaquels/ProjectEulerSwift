@@ -1,4 +1,4 @@
-//What is the 10 001st prime number?
+// What is the 10 001st prime number?
 import Foundation// for Linux use Darwin for Apple Computers
 let primest = 10_001
 var primescollection :[Int] = [2,3]

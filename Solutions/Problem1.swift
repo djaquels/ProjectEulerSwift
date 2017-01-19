@@ -1,5 +1,5 @@
-//Find the 3 or 5 multiplies below 1000
-//Answer: 233168
+// Find the 3 or 5 multiplies below 1000
+// Answer: 233168
 let limit : Int = 1000
 // Imperative style solution
 func solution(end : Int)-> Int{

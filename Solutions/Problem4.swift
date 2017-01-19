@@ -1,6 +1,6 @@
 // Find the largest palindrome number made from the product of two 3-digits number
-//Function that fids palindromes numbers
-//Answer : 906609
+// Function that fids palindromes numbers
+// Answer : 906609
 
 import Foundation //Library to work with pow
 /*

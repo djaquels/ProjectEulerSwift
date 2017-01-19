@@ -1,4 +1,4 @@
-//What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
+// What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
 // Implementation of a algorithm that find the primes set of the smallest number
 import Foundation //Use the  Foundation lib for Linux
 func primesList(limit: Int)-> Array<Int> {

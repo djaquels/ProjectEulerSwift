@@ -1,6 +1,6 @@
 // Find the largest prime factor of the number 600851475143
 let number = 600851475143
-//Answer : 6857
+// Answer : 6857
 // Solution based on C# implementation at http://www.mathblog.dk/project-euler-problem-3/
 func largest(n: Int)->Int{
   var numact = n
